@@ -1,4 +1,4 @@
-# Pre-Screening Assignment - [Company Name]
+# Pre-Screening Assignment - Codeavatar
 
 Thank you for the opportunity to complete this pre-screening assignment. This document provides a quick overview of the assignment, instructions for accessing the PDF, and any relevant information on its contents.
 
